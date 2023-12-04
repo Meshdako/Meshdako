@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Martín Sobarzo</h1>
-<h3 align="center">A passionate dev from Chile, with all my heart ready to learn and try, and practice everything code is concerned. My life is with Jesus, amen.</h3>
+<h3 align="center">A passionate dev from Chile, with all my heart ready to learn and try, and practice everything code is concerned</h3>
+<h3 align="center">My life is with Jesus, amen.</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
